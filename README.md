@@ -1,4 +1,4 @@
-# Flexao-de-Bracos
+🦾 # Flexao-de-Bracos
  
 Esse é um aplicativo que fornece um treinamento de flexão de braços. 
 A informação inicial é o nível de condicionamento: treinado ou destreinado (as explicações estarão no próprio aplicativo).
